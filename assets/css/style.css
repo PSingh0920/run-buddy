@@ -55,11 +55,11 @@ footer a {
 }
 section {
     padding: 60px;
-    background-image: url("hero-bg.jpeg.jpg");
+    background-image: url("hero.jpg");
 }
 /*Hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpeg.jpg");
+    background-image: url("assets\images\hero.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -232,3 +232,4 @@ intro p {
       height: 800px;
       background-image: url("./images/hero-bg.jpg");
   }
+
