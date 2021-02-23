@@ -188,7 +188,7 @@ intro p {
 }
 /* REACH OUT STYLES START */
 .contact {
-    text-align: center;
+    text-align: right;
     background: #024e76;
   }
   .contact h2 {
@@ -230,6 +230,6 @@ intro p {
   }
   #what-we-do {
       height: 800px;
-      background-image: url("./images/hero-bg.jpg");
+      background-image: url("/assets\images\hero-bg.jpg")
   }
 
