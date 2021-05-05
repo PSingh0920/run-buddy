@@ -224,14 +224,16 @@ footer a {
   .contact h2 {
     color: #fce138;
   }
+  .contact-info {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
   .contact-info iframe {
     height: 400px;
   }
   .contact-info div {
-    width: 410px;
-    display: inline-block;
-    vertical-align: top;
-    margin: 30px 0 0 60px;
+    color: #fce138 ;
   }
   .contact-info h3 {
     color: #fce138;
@@ -247,12 +249,6 @@ footer a {
   
   .contact-info a {
     color: #fce138;
-  }
-
-  .contact-info {
-      display: flex;
-      justify-content: space-between;
-      flex-wrap: wrap;
   }
 
   .contact-info > * {
